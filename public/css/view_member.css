@@ -1,0 +1,49 @@
+.pt-3-half {
+    padding-top: 1rem;
+    width: 15%;
+}
+
+td {
+    height: 100px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.autocomplete {
+    position: relative;
+    display: inline-block;
+}
+
+
+input[type=text] {
+    background-color: #f1f1f1;
+    width: 100%;
+}
+input{
+    background-color: #f1f1f1;
+    width: 100%;
+    border: 1px solid transparent;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+
+
+input[type=submit] {
+    background-color: DodgerBlue;
+    color: #fff;
+    cursor: pointer;
+}
+
+.card {
+    height: 50%;
+}
+
+.half {
+    width: 100%;
+}
+
